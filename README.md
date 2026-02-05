@@ -1,4 +1,4 @@
-# 🚀 AdClass AI Platform
+#  AdClass AI Platform
 
 <div align="center">
 
